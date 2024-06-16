@@ -11,7 +11,7 @@ User Management: Manage user data and authenticate users.
 Token Verification: Verify JWT tokens to ensure secure access.
 
 # Technologies Used 💻 
-<img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="40px"> <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="40px"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" height="40px"> <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI Logo" height="40px"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png" height="40px"> <img src="https://avatars.githubusercontent.com/u/110818415?v=4" height="40px"> <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" height="40px">
+<img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="50px">  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" height="50px">  <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png" height="50px">  <img src="https://avatars.githubusercontent.com/u/110818415?v=4" height="50px">  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" height="50px">
 
 Fastapi
 Python  
